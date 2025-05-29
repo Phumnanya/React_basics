@@ -45,6 +45,9 @@ main {
   text-align: center;
   box-sizing: border-box;
 }
+.classcompo p {
+  text-align: justify;
+}
 .event {
   width: 90%;
   height: fit-content;
