@@ -57,6 +57,14 @@ main {
   padding: 15px;
   text-align: center;
 }
-
+.funcompo {
+  width: 90%;
+  height: fit-content;
+  color: white;
+  background-color: red;
+  border: 3px solid black;
+  padding: 15px;
+  box-sizing: border-box;
+}
 
 /*@media (max-width: 800px) {.hourly h5 {font-size: 14px;}}*/
