@@ -5,6 +5,7 @@ import Eventhandlers from './Flexisaf internship/Event-handlers';
 import Functionalcompo from './Flexisaf internship/Functional-components';
 import Jsyntax from './Flexisaf internship/JSX';
 import Property from './Flexisaf internship/Props';
+import States from './Flexisaf internship/State';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Functionalcompo />
         <Jsyntax />
         <Property fullname="Eustace Mbanefo"/>
+        <States />
      </main>
      </>
   );
