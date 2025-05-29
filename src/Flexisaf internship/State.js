@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-function State() {
+function States() {
     const [word, setWord] = useState("This will change if you click the button")
 
     const change = () => {
@@ -18,4 +18,4 @@ function State() {
     )
 }
 
-export default State;
+export default States;
