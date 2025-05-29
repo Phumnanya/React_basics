@@ -14,8 +14,8 @@ function App() {
         <Classcompo />
         <Eventhandlers />
         <Functionalcompo />
-        <Jsyntax />
         <Property fullname="Eustace Mbanefo"/>
+        <Jsyntax />
         <States />
      </main>
      </>
